@@ -256,6 +256,14 @@ internal static class DineOverride
             dineEntranceTeleportA.localRotation = new Quaternion(0f, 0.99843365f, 0f, 0.0559489727f);
         }
 
+        Transform dineScanNode = GameObject.Find("/Environment/ScanNodes/ScanNode")?.transform;
+        if (dineScanNode != null)
+        {
+            dineScanNode.localPosition = new Vector3(175.699997f, -24.0100002f, -19.5f);
+            dineScanNode.localRotation = new Quaternion(0.707106829f, -0.707106829f, -2.43634008e-06f, 2.43634008e-06f);
+            dineScanNode.localScale = new Vector3(9.13990879f, 138.734482f, 4.0328393f);
+        }
+
         GameObject dineEnvironment = GameObject.Find("/Environment");
         if (dineEnvironment != null)
         {

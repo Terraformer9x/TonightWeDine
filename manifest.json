@@ -1,6 +1,6 @@
 {
     "name": "TonightWeDine",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
 	"website_url": "https://github.com/Terraformer9x/TonightWeDine",
     "description": "Changes the layout of Dine's exterior.",
     "dependencies": [
