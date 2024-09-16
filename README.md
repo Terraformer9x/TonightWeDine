@@ -10,5 +10,8 @@ For best results, it is recommended that all players make sure their configs are
 
 This mod also has compatibility with [Chameleon](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/Chameleon/)'s fancy entrances option by [ButteryStancakes](https://thunderstore.io/c/lethal-company/p/ButteryStancakes/).
 
+![V50 layout](https://raw.githubusercontent.com/Terraformer9x/TonightWeDine/main/screenshot_v50.png "V50 layout")
+![Hybrid layout](https://raw.githubusercontent.com/Terraformer9x/TonightWeDine/main/screenshot_hybrid.png "Hybrid layout")
+
 # Contact
 If you have any questions or have any reports to make, you can add me on Discord: @Terraformer9x
