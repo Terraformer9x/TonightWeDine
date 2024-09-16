@@ -1,0 +1,9 @@
+{
+    "name": "TonightWeDine",
+    "version_number": "1.0.0",
+	"website_url": "https://github.com/Terraformer9x/TonightWeDine",
+    "description": "Changes the layout of Dine's exterior.",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100"
+	]
+}
