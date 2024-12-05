@@ -22,7 +22,7 @@ internal class TonightWeDineConfig
             "Dine's Exterior Layout\n\n" +
             "V60 = V60's exterior\n\n" +
             "V50 = V50's exterior\n\n" +
-            "Hybird = V50's exterior with V49's entrances"
+            "Hybrid = V50's exterior with V49's entrances"
         );
     }
 }
